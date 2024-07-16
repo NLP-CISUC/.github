@@ -20,9 +20,16 @@
 * AIA-BDE, corpus of FAQs and their variations, in Portuguese: https://github.com/NLP-CISUC/AIA-BDE
 * AMAIA, question-answering agent based on Semantic Textual Similarity: https://github.com/NLP-CISUC/AMAIA
 
+## Lexical Semantics
+
+* Repository with several resources for Portuguese Lexical Semantics: https://github.com/NLP-CISUC/PT-LexicalSemantics
+- Lexical knowledge bases: https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/Relations
+- Graph embeddings: https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/Embeddings
+- Test sets for lexico-semantic analogies and relation completion in Portuguese, including [TALES][https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/TALESv1.1] and [BATS-PT][https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/BATS-PT]
+- Patterns for lexico-semantic relation discovery in BERT and GPT: https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/Patterns
+
 ## Other
 
-* Lexical knowledge bases, graph embeddings, and test sets for lexico-semantic analogies and relation completion in Portuguese: https://github.com/NLP-CISUC/PT-LexicalSemantics
 * Clinical Named Entity Recognition in Portuguese: https://github.com/fabioacl/PortugueseClinicalNER
 * TeCo, adaptation of proverbs for short texts, with analogy: https://github.com/NLP-CISUC/TECo
 * ASAPP, package for Semantic Textual Similarity in Portuguese: https://github.com/NLP-CISUC/ASAPPpy
