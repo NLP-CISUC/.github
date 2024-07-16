@@ -1,4 +1,4 @@
-# Index of Natural Language Processing Resources developed in CISUC
+# Index of Resources for NLP developed in CISUC
 
 ## Humour
 
