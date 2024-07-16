@@ -1,2 +1,2 @@
-# .github
-Natural Language Processing Resources developed in CISUC
+# Natural Language Processing Resources developed in CISUC
+
