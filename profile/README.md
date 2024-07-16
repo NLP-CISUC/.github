@@ -1,11 +1,4 @@
-# Natural Language Processing Resources developed in CISUC
-
-
-## Dialogue
-
-* FlowDisco, Flow Discovery Platform: https://github.com/NLP-CISUC/FlowDisco
-* Dialogue State Tracking in Portuguese, including the MultiWOZ-PT corpus: https://github.com/NLP-CISUC/Dialog-State-Tracking-PT
-* Twitter Dialogue corpus for Sentiment Analysis in Portuguese: https://github.com/NLP-CISUC/TwitterDialogueSAPT
+# Index of Natural Language Processing Resources developed in CISUC
 
 ## Humour
 
@@ -13,6 +6,12 @@
 * Pun Location: https://github.com/NLP-CISUC/Seq-labelling-puns
 * Riddle Generation with prompt chaining: https://github.com/NLP-CISUC/SECO-LLM
 * Datasets for Humor Recognition in Portuguese: https://github.com/NLP-CISUC/Recognizing-Humor-in-Portuguese
+
+## Dialogue
+
+* FlowDisco, Flow Discovery Platform: https://github.com/NLP-CISUC/FlowDisco
+* Dialogue State Tracking in Portuguese, including the MultiWOZ-PT corpus: https://github.com/NLP-CISUC/Dialog-State-Tracking-PT
+* Twitter Dialogue corpus for Sentiment Analysis in Portuguese: https://github.com/NLP-CISUC/TwitterDialogueSAPT
 
 ## Question Answering
 
