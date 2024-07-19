@@ -19,6 +19,7 @@
 * Question Answering Agents: https://github.com/NLP-CISUC/PT_QA_Agents
 * AIA-BDE, corpus of FAQs and their variations, in Portuguese: https://github.com/NLP-CISUC/AIA-BDE
 * AMAIA, question-answering agent based on Semantic Textual Similarity: https://github.com/NLP-CISUC/AMAIA
+* MultiEight Facts, for question generation in Portuguese: https://github.com/jdportugal/multieight_pt_facts
 
 ## Lexical Semantics
 
